@@ -3,8 +3,8 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+	Mohsen Adeli	madeli@gmail.com	@madeli
+	
 # THANKS
 
     <name>
